@@ -4,6 +4,15 @@ A TV application built for browsing and playing content on Apple TV (tvOS) and A
 
 ---
 
+## 📱 Screenshots
+
+| Home Feed | Interstitial | Profile |
+| :---: | :---: | :---: |
+| <img src="assets/screenshots/feed.png" alt="Home feed with content carousels and sidebar" width="300"> | <img src="assets/screenshots/interstitial.png" alt="Content details screen with poster, description and actions" width="300"> | <img src="assets/screenshots/profile.png" alt="User profile screen with avatar and personal lists" width="300"> |
+| Content carousels and sidebar navigation | Details view with Like, Watch later and Play | Avatar, history and personal lists |
+
+---
+
 ## 🚀 Features
 
 * **Content Browsing:** Horizontal carousels on the Home and Search screens to discover content.
